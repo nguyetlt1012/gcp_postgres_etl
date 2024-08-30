@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a solution to extract insurance claim data from Google Cloud Storage (GCS), load it into PostgreSQL, and perform data analysis tasks, including calculating summary statistics. The solution is designed with considerations for error handling, performance optimization, and security.
+This project provides a solution to extract insurance claim data from Google Cloud Storage (GCS), load it into PostgreSQL, and perform data analysis tasks, including calculating summary statistics
 
 ### Setup and Usage
 
